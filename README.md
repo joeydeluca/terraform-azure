@@ -1,0 +1,1 @@
+To provision Azure infra using Terraform
